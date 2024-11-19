@@ -1,4 +1,4 @@
-#Import nessesarylibraries
+#Import nessesary libraries
 import RPi.GPIO as GPIO
 import time
 from pydub import AudioSegment
